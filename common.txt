@@ -1,3 +1,5 @@
 hello main
 hello feature a
 gigo feature a
+gigo main
+bibo main
